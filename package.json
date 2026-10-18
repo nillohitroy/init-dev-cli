@@ -1,0 +1,24 @@
+{
+  "name": "init-dev-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.20.0",
+    "chalk": "^6.0.1",
+    "commander": "^15.0.0",
+    "dotenv": "^18.0.8",
+    "googleapis": "^186.0.0",
+    "inquirer": "^14.2.3",
+    "mongodb": "^7.7.0",
+    "ora": "^9.4.1",
+    "pdf-parse": "^2.4.5"
+  }
+}
